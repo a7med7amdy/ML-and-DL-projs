@@ -1,3 +1,3 @@
-# A.Hamdy Repo
+# Repo
 
 Some ML and DL codes
