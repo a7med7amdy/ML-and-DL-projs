@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "avian-tract-283207",
+  "private_key_id": "bc0721fc8622582b6c717edf3698c0a1e934df11",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCZdxLYZbRjPG1x\nyCSYMSSGkiopLQUOKw38J20LfdSfFR+YFE/YIjn5VEqmlF06VRkooWN1QR6wiQmZ\naxxn6kjk4LrulQMMnNDTvUJ8OZEqqq/5cX9e0Inti3WohSa6hMyDZKa2mBUy5vii\nUm1L0v0KuU3DFodh91su1mZRC4/GVb/VuXx5nCwQuI0uAiXvrbuU76ar8R5YZ3YW\nAB6K1POZe/IF69q3Egp0tXZfe/9v3H6E4AsucIJ68YkFSpCOfnzrv/AKjtxx4ISR\nLCvFS4M2yx5K6lSzoW8wYyPUErXt51+nTU1SduZaGLiTqJ60EHQDVjqoaityJbUj\ni3mo8u8ZAgMBAAECggEAIG/s7YznuS75Uhqz83A1sHT+ENh5cFJ04QaDU7G7yok4\nNZibfMtVNihVJAsJfo4kpHQiVdMXFcjNXN5pMWSxliETGeEotRaDRDIFdsTjNGHC\nEsck3SlWcf1vd9h3BGcT5DTW0RLprinoRUUHYYa94fGjaFgfcvtJzGdYVoqLT+gV\nmB7Ukt7S9eDgqE7HeNinnZtG2EqgbOxnSaI/s3mfFxUqg3YOu01vuv/EN+d1pdZI\nTzVb1IeaberOIsP8gQZjW4krZhwsxd5LtHqnOaTaou4kSQbLeFxsVvK3aZgH79ip\nk5N0AB2oxi8ZVagGBWelFzvNgx8kG5ceG+wL4E4h9QKBgQDR2DrBrXjThtC7Hv2V\nZ52q5g2xN/p8kguFUtcdmXuqSoKN7hbHx7bd0xc12nPZG4Y1X5pXhgson+cPsZ5f\nDHcRYmzfuvtR91SerGukC5tfbfUt3N+5EN08oduwkHS5KXWgjTFvDDXMmvUsDUou\npCjI5G0Y2akukE+bKV/yuIUfLQKBgQC7OEUUexVYXl4uCw4MnRKx27Ii2YUxbL/H\nYhzJTWU7o2FaSWV5cOmQNPExui8OLJrPRRMVETl+CATLdDlmW6kKgTAUsxDrz7fn\nacPpule30u4nexxHvVNA1xMCnkL7oz8Wah25YrUDjdy+g+UlMXxsujOn4K1nObLr\nb/V3JBBjHQKBgBaDQzJ6IOdYpFYe6ge4WRL3oWps3gO1S2UfURLM35aSbdU6QNlo\nFLdRqUDO0fTt3gUl35IaQGI4XXqyjJIX7UJBM/sAvWu6xCpNxzKPSDkBu/cSpjHd\nnE6f8sjLhqpCx2rVGwOV5MOxsDHsrxO36uQ6lXXADEWBl/jGhJOutiF1AoGADeaV\nqnmhEhifoYeMmX8oHjCTv2arLwpGCwXL4V5vv8fXuJ5ufF/X1682oVyTldfV/sHA\nMvY+cI8j2/9bK7BukqsY6NCK1xdrLjF6LGZ7kNiGekP3y5PRFKVjcfRSQODUFFP4\ntQURL5xe4X5liydrd58zqqlR9rIgCL8dWKVC2jkCgYAgfdkVMALid8xsJbE5t9nS\nl66XlI4llPgeD2CeYF2c8T/Lf4ii9W5WtO1AcC3QyHNsn/X5YsPBhOusehsm18lU\nAOCVdAPl8CzJXYd36jyBhjQnTL9mxjaYYGHOl0hDkdx3J9fIiNcuzkWBtCWK/mUY\ny+N7MHE+8+8gh1mppue2AQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "visionapi-service-account@avian-tract-283207.iam.gserviceaccount.com",
+  "client_id": "112217282065185482830",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/visionapi-service-account%40avian-tract-283207.iam.gserviceaccount.com"
+}

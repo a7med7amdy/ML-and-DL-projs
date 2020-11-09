@@ -1,0 +1,6 @@
+english tweets dataset link:- https://www.kaggle.com/crowdflower/twitter-airline-sentiment
+
+arabic tweets dataset link:- https://www.kaggle.com/mksaad/arabic-sentiment-twitter-corpus
+
+to load model, at the end part of each code, there's functions to load the model and to predict the given
+query.
