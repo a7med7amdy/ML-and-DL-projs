@@ -59,7 +59,7 @@ if you want the interactive app, enter 1 and if you want the automatic app, ente
 
  # automatic app
 
- if you choosed the automatic app, it will ask you to enter a path to the csv file.
+ if you choose the automatic app, it will ask you to enter a path to the csv file.
 
  it assumes that you will enter a csv file with looks like:-
 
